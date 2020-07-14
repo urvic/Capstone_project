@@ -1,1 +1,1 @@
-# Coursera_Capstone
+# Segmentation and clustering of neighbourhoods
