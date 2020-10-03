@@ -1,1 +1,1 @@
-# Segmentation and clustering of neighbourhoods
+## Finding optimal location for residency using EDA
